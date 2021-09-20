@@ -1,5 +1,9 @@
 # Melange
 
+⚠️ Probably doesn't work anymore
+
+***
+
 A wrapper to install [melange-re/melange](https://github.com/melange-re/melange) from npm
 
 ## Usage
