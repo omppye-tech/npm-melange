@@ -13,6 +13,6 @@
   "scripts": {
     "preinstall": "ln -sf $(npx esy | tail -1) $(pwd)"
   },
-  "author": "Weslen Guerreiro <weslenng@outlook.com>",
+  "author": "Weslen Guerreiro <omppye@gmail.com>",
   "license": "MIT"
 }
