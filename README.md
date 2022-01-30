@@ -1,6 +1,6 @@
 # Melange
 
-⚠️ Probably doesn't work anymore
+⚠️ Deprecated
 
 ***
 
